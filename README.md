@@ -10,7 +10,7 @@ one part (Sensors on Board) that has the sensor and the bus (copied fron the spe
 
 ###Volume 1 - On the sensor
 Once data is collected by the device, it can:
-  - Step1. Be used to trigger particular actions if a condition is matched or not. And then continue to step2 or directly to Step3.
+  - Step1. Be used to trigger particular actions if a condition is matched or not. And then continue to Step2 or directly to Step3.
   - Step2. Be aggregated with other data. And then came back to Step1 or continue to Step3.
   - Step3. Be sent *somewhere else* 
   
@@ -25,6 +25,8 @@ The possible destinations are 3:
 ###Volume 2 - On Edge Device
 
 Once data is collected by the Edge device...
+
+
 
 Sensor node network
 Small  
