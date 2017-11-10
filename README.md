@@ -1,7 +1,7 @@
 # IoT-Nodes
 Define IoT Nodes Specs  
 Two tier concept   
-one part (System on Module) that has the embedded intelligence and can have onboard a linux pc
+one part (System on Module) that has the embedded intelligence and can have onboard a linux pc  
 one part (Sensors on Board) that has the sensor and the bus (copied fron the specs of Texas)with all connectivity  
 
 ## The IoT data flow
