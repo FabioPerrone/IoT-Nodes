@@ -1,16 +1,16 @@
-### IoT-Nodes
+# IoT-Nodes
 Define IoT Nodes Specs
 
 ## Hardware
-  # Edge Gateways
+  ### Edge Gateways
   
-  # Edge Devices
+  ### Edge Devices
   
-  # Sensors
+  ### Sensors
   
 ## Software
-  # Edge Gateways
+  ### Edge Gateways
   
-  # Edge Devices
+  ### Edge Devices
   
-  # Sensors
+  ### Sensors
