@@ -22,7 +22,7 @@ one part (Sensors on Board) that has the sensor and the bus (copied fron the spe
 
 ## The IoT data flow
 
-* An untraditional way of describing IoT Environment*
+*An untraditional way of describing IoT Environment*
 
 ### Volume 1 - On the sensor
 Once data is collected by the device, it can:
