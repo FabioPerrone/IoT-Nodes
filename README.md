@@ -48,13 +48,22 @@ Once data is collected by the Edge device...
 
 # The Sensor network
 
-Sensor node network
-Small
-Medium (520)  
-Large (730)  
+Sensor node network sizes:
+  - Micro     (<50)
+  - Small     (>50 & <500)
+  - Medium    (>500 & <800)  
+  - Large     (>800)  
 
+Topologies:
+  - Bus
+  - Tree
+  - Star
+  - Ring
+  - Mesh
+  - Circular
+  - Grid
 
-# IoT device mamangement
+# IoT device management
 
 Portal concept (IoT device instrument manager) resin.io  
 
