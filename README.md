@@ -46,13 +46,20 @@ The possible destinations are 3:
 Once data is collected by the Edge device...
 
 
+# The Sensor network
 
 Sensor node network
-Small  
+Small
 Medium (520)  
 Large (730)  
 
+
+# IoT device mamangement
+
 Portal concept (IoT device instrument manager) resin.io  
+
+
+# Integration with the Industrial Environment
 
 Legacy connection concept  
 
