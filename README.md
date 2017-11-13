@@ -1,5 +1,5 @@
 # IoT-Nodes
-Define IoT Nodes Specs  
+
 For the consumer, a smartphone is a **single atomic** object that allows to communicate with other people, to take pictures, to surf the web, and so on, at the same time. It is actually an object made of other objects: antennas, cameras, a wide variety of sensors, a processor, a memory device and so on.
 
 The first question when thinking about an IoT Node, should be: is this _node_ an **atomic** component? Which are the **bricks** that make it?
@@ -11,14 +11,17 @@ The key component are:
   - Gyro
   - ..
 - Microcontroller
+- Bus
 - Network Interface
   - Wifi
   - Ethernet
   - ..
   
- 
-one part (System on Module) that has the embedded intelligence and can have onboard a linux pc  
-one part (Sensors on Board) that has the sensor and the bus (copied fron the specs of Texas)with all connectivity  
+These components can make an IoT board:
+
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/FabioPerrone/IoT-Nodes/master/iotboard.png" /></div>
+
+The next step is to add some intelligence to the IoT board previously introduced, allowing the developer to access to the board functionalities at an higher level, interacting directly with the OS. 
 
 ## The IoT data flow
 
