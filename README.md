@@ -18,7 +18,7 @@ The key component are:
   
 These components usually 
 
-<div style="text-align:center"><img src ="IoT-Nodes/iotboard.png" /></div>
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/FabioPerrone/IoT-Nodes/master/iotboard.png" /></div>
 
 one part (System on Module) that has the embedded intelligence and can have onboard a linux pc  
 one part (Sensors on Board) that has the sensor and the bus (copied fron the specs of Texas)with all connectivity  
