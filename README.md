@@ -35,8 +35,8 @@ Then, what does *somewhere else* means in this scenario?
 
 The possible destinations are 3:
   - If the the sensor-to-sensor communication is enabled, the collected data could be sent to other sensors according to some logics previously defined, or to a specific sensor that act as a master among the others.
-  - If an edge node exists, data could be sent to it. What's an edge node? An Edge node is device with no battery contrains, with more computational capabilities and more network bandwidth than a sensor.
-  - If the sensor is enabled to connect with, data could be sent directly to the entity in charge of collecting all data from all sensor. The endpoint of this entity could be for example an mqtt broker.
+  - If an edge node exists, data could be sent to it. What's an edge node? An Edge node is a device with no battery constrains, with more computational capabilities and more network bandwidth than a *standard* sensor.
+  - If the sensor is enabled to connect with, data could be sent directly to the entity in charge of collecting all data from all sensors. The endpoint of this entity could be for example an mqtt broker.
   
 ### Volume 2 - On Edge Device
 
