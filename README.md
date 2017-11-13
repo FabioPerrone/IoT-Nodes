@@ -1,6 +1,6 @@
 # IoT-Nodes
 
-For the consumer, a smartphone is a **single atomic** object that allows to communicate with other people, to take pictures, to surf the web, and so on, at the same time. It is actually an object made of other objects: antennas, cameras, a wide variety of sensors, a processor, a memory device and so on.
+For the consumer, a smartphone is a **single atomic** object that allows to communicate with other people, to take pictures, to surf the web, at the same time. It is actually an object made of other objects: antennas, cameras, a wide variety of sensors, a processor, a memory device and so on.
 
 The first question when thinking about an IoT Node, should be: is this _node_ an **atomic** component? Which are the **bricks** that make it?
 
