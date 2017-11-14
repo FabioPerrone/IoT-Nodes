@@ -5,8 +5,13 @@ FCA has developed different regional Manufacturing solutions to provide its inte
 FCA invites the supplier to submit a proposal demonstrating their capabilities to understand and develop an IoT ecosystem for FCA, identifying:  
 
 -	The capabilities of adapting to existing standard (CARS Standard) and define the future roadmap to standardisation and integration for IoT Nodes (2.1)  
--	The capabilities of providing a roadmap to the evolution of the Nodes (2.1)
--	The cloud adoption strategy (2.2)
+-	The capabilities of providing a roadmap to the evolution of the Nodes (2.1)  
+- The capability to offer the solution proposed for IoT Nodes, as described in the specific chapter (2.2)  
+- The capability to propose an alternative solution for IoT Nodes in case of different architectures from those specified (2.2)  
+-	The capablity of providing the requested object information trough a standard flow, defined as abstract APIs (2.3)  
+
+
+
 •	The analytics tools (2.2)
 •	The roadmap to the common data lake (2.2)
 •	The best development platform and workflow for the data scientists and analytics app developers (2.3)
