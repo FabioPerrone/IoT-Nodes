@@ -32,7 +32,8 @@ Once data is collected by the device, it can:
 - Step1. Be used to trigger particular actions if a condition is matched or not. And then continue to Step2 or directly to Step3.
 - Step2. Be aggregated with other data. And then came back to Step1 or continue to Step3.
 - Step3. Be sent *somewhere else* 
-  
+
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/FabioPerrone/IoT-Nodes/master/iotnodesteps.png" /></div>
   
 In this scenario, *somewhere else* means 3 possible destinations:
   - If the the sensor-to-sensor communication is enabled, the collected data could be sent to other sensors according to some logics previously defined, or to a specific sensor that act as a master among the others.
