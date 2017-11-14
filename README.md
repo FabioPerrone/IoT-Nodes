@@ -1,13 +1,12 @@
- 
-*** Project Background and Objectives  
+### Project Background and Objectives  
 FCA has developed different regional Manufacturing solutions to provide its internal and external processes services with value-added insights and meaningful data. The solutions currently available are using different models, from traditional databases to Big Data solutions.  
 
-**	Objectives
+##	Objectives
 FCA invites the supplier to submit a proposal demonstrating their capabilities to understand and develop an IoT ecosystem for FCA, identifying:  
 
-•	The capabilities of adapting to existing standard (CARS Standard) and define the future roadmap to standardisation and integration for IoT Nodes (2.1)  
-•	The capabilities of providing a roadmap to the evolution of the Nodes (2.1)
-•	The cloud adoption strategy (2.2)
+-	The capabilities of adapting to existing standard (CARS Standard) and define the future roadmap to standardisation and integration for IoT Nodes (2.1)  
+-	The capabilities of providing a roadmap to the evolution of the Nodes (2.1)
+-	The cloud adoption strategy (2.2)
 •	The analytics tools (2.2)
 •	The roadmap to the common data lake (2.2)
 •	The best development platform and workflow for the data scientists and analytics app developers (2.3)
