@@ -21,7 +21,7 @@ These components can make an IoT board:
 
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/FabioPerrone/IoT-Nodes/master/iotboard.png" /></div>
 
-The next step is to add some intelligence to the IoT board previously introduced, allowing the developer to access to the board functionalities at an higher level, interacting directly with the OS. 
+If needed, further intelligence could be added to the IoT board previously introduced, allowing the developer to access to the board functionalities at an higher level interacting directly with the OS, by adding a microprocessor to the Board. The cost of this additional computational power is an increase of power consumption and the effort of integrating the underlying board with the microprocessor.
 
 ## The IoT data flow
 
