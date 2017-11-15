@@ -10,21 +10,6 @@ FCA invites the supplier to submit a proposal demonstrating their capabilities t
 - The capability to propose an alternative solution for IoT Nodes in case of different architectures from those specified (2.2)  
 -	The capablity of providing the requested object information trough a standard flow, defined as abstract APIs (2.3)  
 
-
-
-•	The analytics tools (2.2)
-•	The roadmap to the common data lake (2.2)
-•	The best development platform and workflow for the data scientists and analytics app developers (2.3)
-•	The actionable space of the data, whether that be a dashboard, a specific application, or an API (2.4)
-•	Evolution of the overall current scenario which is actually involving Business Intelligence, DWH, Adv. Analytics and Web applications-PCF (3)
-o	The new scenario should take into consideration an on-prem., in cloud and hybrid situations
-o	Should also highlight which components (especially in the hybrid scenario) have to be on-prem. or in cloud
-o	Licensing and support options (including cost scenarios) for existing software such as Cognos, QlikView, Qlik Sense, DataStage, on prem and in the cloud
-•	A comparison between the single proprietary components of the on cloud solutions of the major vendors/platforms; as an example: Hadoop Big Data Processing On Premise can be mapped on Amazon EMR, Google DataProc, Azure HD Insight. Since Cloud vendors propose different pricing models, FCA needs to understand which is the best choice in terms of costs and capabilities
-•	A recommendation regarding the possible centralization of machine learning data and services vs. delocalization of the same services (i.e.: integration with Connected Vehicles and Industry 4.0)  
-•	A perspective on an architecture that addresses global, regional, functional and distributed needs – recommendations on what would go where from a data and application perspective, how, why, etc. including interconnectivity with existing initiatives including Connected Vehicle Analytics, Manufacturing IoT, etc. 
-•	Propose a global architecture and workflow process that will provide a flexible and sustainable data governance to support the current needs of FCA.
-•	Provide a cost estimate to develop a Global Integrated Data Analytics Platform and all components surrounding the Big Data and Analytics environment
 Supplier is advised to align responses to all demands specified in this RFI. Responses not in compliance with the terms or conditions of this “Request” shall be considered an unacceptable proposal.
 The objectives for this request for information (RFI) are to select a subset of consultants to submit via a RFQ (Request for Quote) a proposal to build out a Big Data and Analytics Roadmap strategy for FCA.
 
